@@ -1,0 +1,60 @@
+{
+  "blogs": [],
+  "users": [
+    {
+      "email": "duylam123@gmail.com",
+      "password": "06012003",
+      "name": "Đào Duy Lâm",
+      "like": [
+        3
+      ],
+      "avatar": "https://i.pinimg.com/736x/fa/60/51/fa6051d72b821cb48a8cc71d3481dfef--social-networks-avatar.jpg",
+      "following": [
+        4
+      ],
+      "follower": [],
+      "id": 3
+    },
+    {
+      "email": "aaaa@gmail.com",
+      "name": "lamalam",
+      "password": "06012003",
+      "avatar": "https://i.pinimg.com/736x/fa/60/51/fa6051d72b821cb48a8cc71d3481dfef--social-networks-avatar.jpg",
+      "like": [],
+      "following": [],
+      "follower": [],
+      "id": 4
+    },
+    {
+      "email": "lam000@gmail.com",
+      "name": "lam",
+      "password": "06012003",
+      "avatar": "https://i.pinimg.com/736x/fa/60/51/fa6051d72b821cb48a8cc71d3481dfef--social-networks-avatar.jpg",
+      "like": [],
+      "following": [],
+      "follower": [],
+      "id": 5
+    },
+    {
+      "email": "duylam@gmail.com",
+      "name": "Duy Lam 2003",
+      "password": "06012003",
+      "avatar": "https://i.pinimg.com/736x/fa/60/51/fa6051d72b821cb48a8cc71d3481dfef--social-networks-avatar.jpg",
+      "like": [],
+      "following": [],
+      "follower": [],
+      "id": 6
+    },
+    {
+      "email": "camly@gmail.com",
+      "name": "Cam Ly",
+      "password": "06012003",
+      "avatar": "https://i.pinimg.com/736x/fa/60/51/fa6051d72b821cb48a8cc71d3481dfef--social-networks-avatar.jpg",
+      "like": [],
+      "following": [],
+      "follower": [],
+      "id": 7
+    }
+  ],
+  "comments": []
+}
